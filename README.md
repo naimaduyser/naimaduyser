@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naima.</h1>
-<h3 align="center">I'm a Front-end Developer in training and currently based in Florence, Italy.</h3>
+<h3 align="center">I'm a Front-end Developer in training and currently based in The Netherlands.</h3>
 
 - 🪴 I’m currently working on **my personal portfolio to showcase my works and grow my programming skills.**
 
