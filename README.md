@@ -3,7 +3,7 @@
 
 - 🪴 I’m currently working on **my personal portfolio to showcase my works and grow my programming skills.**
 
-- 💻 I’m currently learning **React.js.**
+- 💻 I’m currently learning **Typescript**.
 
 - 📫 You can reach me at **naima.fatimaduyser@gmail.com**
 
