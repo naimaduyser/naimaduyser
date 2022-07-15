@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naima.</h1>
 <h3 align="center">I'm a Junior Front-End Developer currently based in Amsterdam.</h3>
 
-- 🔭 I’m currently working on [my creative portfolio.](naimafatimaduyser.netlify.app)
-
 - 🌱 I’m currently learning **Next.js and Typescript.**
 
 <h3 align="left">Connect with me:</h3>
